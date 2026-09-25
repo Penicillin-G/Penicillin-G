@@ -32,4 +32,4 @@ Python • Pandas • NumPy • Matplotlib • Scikit-learn • JavaScript • T
 - Diploma in Nursing Science — Bowen University Teaching Hospital
 
 ## 📫 Connect
-[LinkedIn](...)
+[LinkedIn](in/daniel-glorious-342269222)
